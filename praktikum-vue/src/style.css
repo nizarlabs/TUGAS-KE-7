@@ -1,0 +1,23 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #f4f6fb;
+  font-family: Arial, sans-serif;
+  color: #243047;
+}
+
+button {
+  font-family: inherit;
+}
+
+button:hover {
+  opacity: 0.85;
+}
+
+input, select {
+  font-family: inherit;
+}
